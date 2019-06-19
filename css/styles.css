@@ -10,3 +10,7 @@
 .bg-black {
   color: #ffffff;
   background: #000000; }
+
+@media (min-width: 1199px) {
+  .port-item {
+    padding: 3em !important; } }
